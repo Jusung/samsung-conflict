@@ -22,3 +22,4 @@ add_task("Do Git practice")
 show_tasks()
 remove_task(0)
 show_tasks()
+
